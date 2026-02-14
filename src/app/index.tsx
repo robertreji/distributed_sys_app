@@ -10,10 +10,9 @@ export default function Index() {
         justifyContent: "center",
         alignItems: "center",
       }}
-    ><Link href={"/matrix"}>
+    ><Link href={"/todo"}>
       gtot matrix
     </Link>
-      <Text>Edit app/index.tsx to edit this screen.</Text>
     </View>
   );
 }
