@@ -52,7 +52,7 @@ const Todo = () => {
 
       const matrixClient = sdk.createClient({
       baseUrl: "https://matrix.org",
-      accessToken: "mat_Oxv9EjbdzahYCQ0nUvytMBpxfEPyXj_SP68V3",
+      accessToken: "mat_UOIp1Bq9VGWuBQmnsUouxVyuysMCMJ_iFSSg3",
       userId: "@oggy2005:matrix.org",
       });
       matrixClient.canSupportVoip = false;
